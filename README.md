@@ -3,7 +3,7 @@
 ## Contributing
 You can either:
 1) Please make a pull request or open an issue to contribute.
-2) You can also leave a comment on the [Schema Structured Syndication](https://www.notion.so/Schema-Structured-Syndication-822222222222) Notion document.
+2) You can also leave a comment on the [Schema Structured Syndication](https://www.notion.so/3s-docs/Schema-Structured-Syndication-83a111181e8e410bb27948b61b73c2ec) Notion document.
 
 Both are welcome and all changes will be merged into this repository. 
 
