@@ -16,9 +16,9 @@ No! This is exactly how podcasts work. RSS (Really Simple Syndication) is used a
 
 ![podcast-ecosystem.png](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/podcast-ecosystem.png)
 
-Podcasting is very different to every other content platform (YouTube, Instagram, TikTok) because **no one tech company owns podcasts**. Creators can choose to self-host or use a bunch of different hosting tool while listeners can listen to podcasts on Apple, Spotify, Overcast, PocketCast etc. 
+Podcasting is very different to every other content platform (YouTube, Instagram, TikTok) because **no one tech company owns podcasts**. Creators can choose to self-host or choose a hosting tool while listeners can listen to podcasts on any podcast player (Apple, Spotify, Overcast, PocketCast etc). 
 
-However, the **user experience of podcast players is exceptional** and one of the big reasons for podcasting . When a user uses a podcast player, it behaves like any other content platform even though every podcast is self-published content from independent creators. yet, that isn't the focal point and user’s get the great experience they are accustomed to on the current centralized content platforms.
+Another big difference in podcasting is that if a creator ever leaves a content platform like YouTube, Instagram, TikTok they lose the subscribers they have built up on the platform. This isn't the case in podcasts where every podcast is self-published by the creators. If the creator wants, they can switch hosting tools but keep the listeners on all podcast players. ie) creators own the distribution to the audience in podcasting.
 
 ## Why not just use RSS?
 
@@ -55,7 +55,7 @@ RSS is a very flexible specification that heavily inspires SSS. However, while 
 
 ## License
 
-SSS is an open specification offered under the terms of the [Creative Commons Attribution / Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/).  
+SSS is an open-source specification offered under the terms of the [Creative Commons Attribution / Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/).  
 
 Links to Important Pages:
 
@@ -67,7 +67,7 @@ Links to Important Pages:
 
 [Supported Apps](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Supported%20Apps%20abd87af85dbd45c09ba686d9c73288c6.md)
 
-[Helpful Apps for content creators](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Helpful%20Apps%20for%20content%20creators%209fbf00f49a884db19925836a94385b0e.md)
+[Apps for content creators](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Apps%20for%20content%20creators%209fbf00f49a884db19925836a94385b0e.md)
 
 [Creator-Friendly Copyright Notice](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Creator-Friendly%20Copyright%20Notice%2069bdbb09b2804878b76ca7787026d917.md)
 

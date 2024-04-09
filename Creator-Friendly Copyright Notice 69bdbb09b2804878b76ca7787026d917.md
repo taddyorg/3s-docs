@@ -1,7 +1,7 @@
 # Creator-Friendly Copyright Notice
 
 <aside>
-📌 This is the default Copyright Agreement for all SSS feeds. The purpose of this agreement is to ensure that content creators retain all the rights to their creations by default. Please include a link to this URL in your SSS feed.
+📌 This is the default Copyright Agreement for all SSS feeds. The purpose of this agreement is to ensure that content creators retain all the rights to their creations by default.
 
 </aside>
 
@@ -38,4 +38,4 @@ If your service breaks any terms in this Agreement, you will be responsible for 
 
 You can verify you are communicating with the owner of this feed by sending an email to the ‘feedOwnerEmail’ property on this feed. Getting a confirmation in the response will validate that they are the rightful owner of the content. Also, most feeds have a link to a creator feed. The creator feed may contain details on how to contact them via social media, email, or their website.
 
-**Last Modified: 2024-02-19**
+**Last Modified: 2024-04-08**

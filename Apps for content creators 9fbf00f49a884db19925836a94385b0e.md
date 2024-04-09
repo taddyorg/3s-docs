@@ -1,8 +1,8 @@
-# Supported Comic Apps
+# Apps for content creators
 
-- [Inkverse](https://inkverse.co)
-- [Mihon](https://mihon.app/) (Android only)
-- More apps coming soon…
+You can self-publish your own SSS feed. You also have the option of using these apps to easily publish & distribute your SSS feed:
+
+- [Taddy Ink](https://taddy.org)
 
 ### **Are you a developer? Are you passionate about comics?**
 
@@ -12,4 +12,4 @@ Here are 3 advantages you get when building a comic app that uses comics distrib
 2. Current comic platforms are not creator-friendly. You are building a creator-friendly comic alternative, where creators get to own all their IP and aren’t lock to any one tech platform.
 3. SSS is an open-source specification. Become part of a group of developers that care about building profitable, sustainable and creator-friendly apps. Send me an email `danny@taddy.org` if you have any questions or feedback. Would love to chat :)
 
-PS: Make sure your app is adhering to the [creator-friendly copyright requirements for SSS Feeds](../Creator-Friendly%20Copyright%20Notice%2069bdbb09b2804878b76ca7787026d917.md).
+PS: Make sure your app is adhering to the [creator-friendly copyright requirements for SSS Feeds](Creator-Friendly%20Copyright%20Notice%2069bdbb09b2804878b76ca7787026d917.md).
