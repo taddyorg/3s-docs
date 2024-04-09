@@ -1,6 +1,6 @@
 # Schema Structured Syndication
 
-SSS (Schema Structured Syndication) is an [open-source specification](https://github.com/taddyorg/3s-docs) that makes it possible for creators to self-publish their content to any app that supports this specification. The benefit of self-publishing content is that a creator **retains all copyrights to their IP**, gets to **keep full creative control of their work**, and **aren’t tied to any one tech platform**. This website documents the format of what a SSS feed to make it easy for developers who want to build apps using SSS Feeds.
+SSS (Schema Structured Syndication) is an open-source specification that makes it possible for creators to self-publish their content to any app that supports this specification. The benefit of self-publishing content is that a creator **retains all copyrights to their IP**, gets to **keep full creative control of their work**, and **aren’t tied to any one tech platform**. This website documents the format of what a SSS feed to make it easy for developers who want to build apps using SSS Feeds.
 
 ## Example
 
