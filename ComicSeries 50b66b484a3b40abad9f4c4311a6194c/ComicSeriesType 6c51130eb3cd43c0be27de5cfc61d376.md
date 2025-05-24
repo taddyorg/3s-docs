@@ -5,7 +5,7 @@ Possible types for a comic.
 ```jsx
 enum ComicSeriesType{
   WEBTOON
-	MANGA
+  MANGA
   MANHWA
   MANHUA
   AMERICAN_STYLE_COMIC

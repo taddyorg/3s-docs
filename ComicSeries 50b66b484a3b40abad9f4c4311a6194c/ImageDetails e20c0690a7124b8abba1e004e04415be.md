@@ -2,7 +2,7 @@
 
 Describes how to generate an image url, based on its base_url and the desired variant.
 
-| Property | Type | Description |
+| `Property` | `Type` | `Description` |
 | --- | --- | --- |
 | base_url | String | Base url for the image |
 | variant_name1 | String | The string to append to the base url to get the desired size / variant for the image |

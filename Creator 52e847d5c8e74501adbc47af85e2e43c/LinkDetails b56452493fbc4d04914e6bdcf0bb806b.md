@@ -2,11 +2,11 @@
 
 Describes how to generate an url to a creators’ website, email or social media accounts based on base_url, value, and type.
 
-| Property | Type | Description |
+| `Property` | `Type` | `Description` |
 | --- | --- | --- |
-| type | LinkDetails%20b56452493fbc4d04914e6bdcf0bb806b.md | The website  |
+| type | [LinkType](LinkDetails%20b56452493fbc4d04914e6bdcf0bb806b.md) | The website  |
 | value | String | The specific path to append to the website to get to a creator’s profile |
-| base_url | String (Optional, usually ignored) | Base url for the link. For security reasons this value is usually ignored by clients to avoid the following scenario: Setting a link type as TWITTER but linking to a malicious site that isn't http://twitter.com. Click https://gist.github.com/dmathewwws/f93499a77ee56ba5b4b8108716d58175 based on type. |
+| base_url | String (Optional, usually ignored) | Base url for the link. For security reasons this value is usually ignored by clients to avoid the following scenario: Setting a link type as TWITTER but linking to a malicious site that isn't [twitter.com](http://twitter.com). Click [here for a list of assumed base_urls](https://gist.github.com/dmathewwws/f93499a77ee56ba5b4b8108716d58175) based on type. |
 
 ## LinkType
 

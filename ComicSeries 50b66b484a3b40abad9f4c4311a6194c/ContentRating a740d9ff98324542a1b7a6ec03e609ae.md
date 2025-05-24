@@ -21,4 +21,4 @@ enum ContentRating {
 
 `COMICSERIES_ADULTS` - Comic is suitable for 18 year olds & above.  Suitable rating for comics that include gore, graphic violence, profanity, and mild nudity.
 
-`COMICSERIES_EROTICA` - Comic is suitable for 18 year olds & above. Suitable rating for comics that are meant to provide erotic satisfaction.
+`COMICSERIES_EROTICA` - Comic is suitable for 18 year olds & above. Suitable rating for comics that include nudity or are meant to provide erotic satisfaction.

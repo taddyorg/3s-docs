@@ -32,7 +32,7 @@ RSS is a very flexible specification that heavily inspires SSS. However, while 
 
 1. **SSS uses JSON, while RSS uses XML.**
 2. **SSS uses schema.org vocabulary.** [schema.org](http://schema.org/) provides type definitions for various types of content, including comics, books, music, and video.
-3. **[Premium content can be unlocked.](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Hosting%20Provider%206e7f341665344165a2e8aed178c47589/OAuth%201fe171bbefaf46db880244635988ae5a.md)** SSS specifies how to allow certain content to be accessible only to Patreon backers or other paid users. An SSS feed is a public document, and therefore, all the links contained in the document are public. However, SSS also outlines how to label certain content as premium and create a valid token to access that content.
+3. [**Premium content can be unlocked.**](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Hosting%20Provider%206e7f341665344165a2e8aed178c47589/OAuth%201fe171bbefaf46db880244635988ae5a.md) SSS specifies how to allow certain content to be accessible only to Patreon backers or other paid users. An SSS feed is a public document, and therefore, all the links contained in the document are public. However, SSS also outlines how to label certain content as premium and create a valid token to access that content.
 4. **Every SSS feed is required to have an ETag or Last-Modified header**. Every SSS feed must return either an etag or last-modified header in the response. This enables efficient checking to see if the content in the feed has changed, without having to download or examine its details.
 5. **Every SSS feed is required to conform to [WebSub](https://www.w3.org/TR/websub/)**. Every SSS feed must publish its feed to a Websub Hub. This allows subscribers to the feed to be notified immediately when the feed has been updated (ie: new content is available).
 
@@ -44,7 +44,7 @@ RSS is a very flexible specification that heavily inspires SSS. However, while 
 </aside>
 
 <aside>
-🧑‍🎨 **[Creator](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Creator%2052e847d5c8e74501adbc47af85e2e43c.md) →** Details on the creator (name, avatar image, social media links).
+🧑‍🎨 [**Creator](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Creator%2052e847d5c8e74501adbc47af85e2e43c.md) →** Details on the creator (name, avatar image, social media links).
 
 </aside>
 
@@ -72,8 +72,6 @@ Links to Important Pages:
 [Creator-Friendly Copyright Notice](Schema%20Structured%20Syndication%2083a111181e8e410bb27948b61b73c2ec/Creator-Friendly%20Copyright%20Notice%2069bdbb09b2804878b76ca7787026d917.md)
 
 <aside>
-❕ If you would like to edit or contribute to the SSS specification. You can either [submit a PR here](https://github.com/taddyorg/3s-docs) or by creating a notion account and [leaving a comment.](http://bit.ly/3VQqtQV)
-
-Open Source Credit: This website is actually just a notion document. We use [Travis's notion + nextjs starter project](https://github.com/transitive-bullshit/nextjs-notion-starter-kit), you should check it out if you want an easy way to create + edit your docs.
+👷 If you would like to edit or contribute to the SSS specification, you can [submit a PR here](https://github.com/taddyorg/3s-docs).
 
 </aside>

@@ -32,10 +32,10 @@ By using any content from this feed, your service agrees to the entirety of this
 
 ### Breaking the terms of this Agreement
 
-If your service breaks any terms in this Agreement, you will be responsible for giving the owner of this feed all revenue generated through the exploitation of their content.
+If your service breaks any terms in this Agreement, you are responsible for giving the owner of this feed all revenue generated through the exploitation of their content.
 
 ### How to contact the owner of this feed
 
 You can verify you are communicating with the owner of this feed by sending an email to the ‘feedOwnerEmail’ property on this feed. Getting a confirmation in the response will validate that they are the rightful owner of the content. Also, most feeds have a link to a creator feed. The creator feed may contain details on how to contact them via social media, email, or their website.
 
-**Last Modified: 2024-04-08**
+**Last Modified: 2024-10-01**
